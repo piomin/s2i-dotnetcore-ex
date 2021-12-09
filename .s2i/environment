@@ -1,3 +1,2 @@
 DOTNET_STARTUP_PROJECT=app/app.csproj
 DOTNET_TEST_PROJECTS=app.tests/app.tests.csproj
-DOTNET_RESTORE_SOURCES=http://repo-sonatype-nexus-service.repository.svc:8081/repository/nuget.org-proxy/index.json
